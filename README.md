@@ -15,6 +15,7 @@ A Computer Science Student Major in Artificial Intelligence and Web Development.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cedecj042&theme=algolia&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cedecj042&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cedecj042&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
@@ -23,5 +24,5 @@ A Computer Science Student Major in Artificial Intelligence and Web Development.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cedecj042&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
